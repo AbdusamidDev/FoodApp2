@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="app_menu">Menu</string>
+    <string name="add_food">Add Food</string>
+    <string name="list_food">Food List</string>
+    <string name="food_name">Food Name</string>
+    <string name="taom_tayyorlanish_tartibi">Taom tayyorlanish tartibi</string>
+    <string name="Save">Save</string>
+    <string name="food_properties">Food Properties</string>
+    <string name="food_cooking_time">Taom tayyorlash tartibi</string>
+</resources>
